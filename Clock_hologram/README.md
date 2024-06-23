@@ -1,0 +1,18 @@
+# Projects Clock Hologram
+List components:
+1.	0603 0.1uF x3
+2.	LED RGB 1210 x25
+3.	DIO-SMD-106 x1
+4.	BUTTON 3x4mm 2 Pin x2
+5.	FP-533980471-MFG 1.25mm x1
+6.	MOLEX-53261-0471_V 1.25mm x1
+7.	C1815 SOT23 x3
+8.	Mosfet FDD8870 x1
+9.	0603 10K x8
+10.	0603 2K2 x3
+11.	Pot square 10K x1
+12.	MSS23D19 x1
+13.	DS3231SN# x1
+14.	Hall 6025 x1
+15.	ATmega328-AU x1
+16.	Crytal 16MHz 3 PIN x1
